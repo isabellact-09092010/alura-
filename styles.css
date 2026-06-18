@@ -112,6 +112,11 @@ body {
     color: var(--branco-principal);
 }
 
+.dispositivos__lista h3 {
+    font-size: 32px;
+    color: var(--branco-principal);
+}
+
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
